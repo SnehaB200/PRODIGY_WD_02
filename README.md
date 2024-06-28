@@ -1,1 +1,1 @@
-<h1>Stopwatch</h1>
+<h1>Stopwatch Web Application</h1>
